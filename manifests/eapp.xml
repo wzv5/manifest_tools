@@ -1,0 +1,3 @@
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
+	<assemblyIdentity name="E.App" processorArchitecture="x86" version="5.1.0.0" type="win32" />
+</assembly>
